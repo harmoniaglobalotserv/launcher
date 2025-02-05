@@ -10,15 +10,9 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.40.93",
-	"launcherVersion": "0.1",
+	"launcherVersion": "1.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
-		{
-			"name": "assets"
-		},
-		{
-			"name": "storeimages"
-		},
 		{
 			"name": "bin"
 		}
