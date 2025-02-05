@@ -19,6 +19,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "http://148.113.176.54/launch/Tibia.zip",
+	"newClientUrl" : "https://github.com/harmoniaglobalotserv/launcher/blob/main/Tibia.zip",
 	"clientExecutable": "client.exe"
 }
