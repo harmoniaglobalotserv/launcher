@@ -25,6 +25,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "http://oblivionot.com/client/download/Tibia.zip",
+	"newClientUrl" : "https://oblivionot.com/client/download/Tibia.zip",
 	"clientExecutable": "client.exe"
 }
